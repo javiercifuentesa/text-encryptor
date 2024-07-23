@@ -1,10 +1,10 @@
 # Hi!, Welcome to my Project Text Encryptor
-![imagen]( https://text-encryptor-sigma.vercel.app/images/doll-child.png)
+![imagen]( https://github.com/javiercifuentesa/text-encryptor/blob/main/images/text-encryptor-ai.jpeg)
 
 - Project status: In process.
 - For now, only available in desktop version
 
-## Herramientas utilizadas:
+## Tools used:
 
 * HTML
 
@@ -12,7 +12,7 @@
 
 * JavaScript
 
-## Hecho por:
+## Made by:
 
 ### javiercifuentesa
 
